@@ -1,1 +1,1 @@
-[](screenhot.png)
+[](screenshot.png)
