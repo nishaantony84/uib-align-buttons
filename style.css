@@ -1,0 +1,43 @@
+* html {
+    box-sizing: border-box;
+    font-size: 0;
+  }
+  header,
+  main,
+  footer {
+    margin: 10px;
+  }
+  .box {
+    display: inline-block;
+    background-color: yellow;
+    padding: 12px 8px;
+    margin: 10px;
+    border-radius: 45%;
+    text-decoration: underline;
+    font-size: 20px;
+    font-family: "Courier New", Courier, monospace;
+    width: 110px;
+    text-align: center;
+  }
+  header {
+    display: inline-block;
+    background-color: tomato;
+  }
+
+  footer {
+    display: block;
+    background-color: violet;
+    text-align: end;
+  }
+  main {
+    display: block;
+    background-color: green;
+    margin-top: 0;
+    padding: auto;
+    text-align: center;
+    height: 70px;
+  }
+  .nav {
+    padding: 0;
+    margin: 5px;
+  }
